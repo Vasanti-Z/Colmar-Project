@@ -1,0 +1,39 @@
+/*-- Navigation bar --*/
+.navbar {
+    font-size: 16px;
+    color: black;
+    display: flex;
+   justify-content: space-between;
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+
+
+
+/*-- Banner section1 --*/
+.container {
+    background-color: rgb(101, 101, 101);
+    width: 40px;
+    margin-top: 60px;
+    padding: auto 50px; 
+}
+.banner img {
+    margin: 32px 24px;
+}
+.banner-text {
+    width: 60%;
+    margin: 200px 40px;
+    float: center;
+    margin-top: 60px;
+    padding-top: 40px;
+    padding-right: 100px;
+}
+/* Section-2 */
+.section2 {
+    marging: 32px;
+    padding: auto 50px;
+    display: flex;
+}
+.section2 img {
+    margin: 32px 24px;
+}
